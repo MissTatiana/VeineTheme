@@ -460,9 +460,9 @@ margin on the iframe, cause it breaks stuff. */
 #header-triangle {
     width: 0;
     height: 0;
-    border-left: 670px solid transparent;
-    border-right: 670px solid transparent;
-    border-top: 106px solid #000;
+    border-left: 46em solid transparent;
+    border-right: 46em solid transparent;
+    border-top: 6.20em solid #000;
 }
 
 #header-triangle img {
