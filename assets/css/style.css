@@ -850,7 +850,7 @@ body:not(.post-template) .post-title {
 
 .lone-post .post-meta {
     margin: 0;
-    margin-left: 35.75em;
+    margin-left: 34em;
 }
 
 .lone-post .post-date {
@@ -880,7 +880,7 @@ body:not(.post-template) .post-title {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #83839a;
     line-height: 1.7em;
-    padding-top: 10px;
+    padding-top: 20px;
     font-weight: 300;
 }
 
@@ -896,9 +896,9 @@ body:not(.post-template) .post-title {
 .lone-post p {
     font-size: 1.1em;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #cccccc;
+    color: #bababa;
     line-height: 1.7em;
-    padding-top: 10px;
+    padding-bottom: 20px;
     font-weight: 200;
 }
 
