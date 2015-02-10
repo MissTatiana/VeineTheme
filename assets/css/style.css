@@ -1385,8 +1385,12 @@ body:not(.post-template) .post-title {
         box-sizing: border-box;
         height: auto;
         min-height: 240px;
-        height: 60%;
-        padding: 15% 0;
+        height: 20%;
+    }
+
+    #header-triangle img {
+        left: 9.5em;
+        width: 236px;
     }
 
     .scroll-down,
