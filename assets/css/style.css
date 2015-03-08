@@ -1239,6 +1239,20 @@ body:not(.post-template) .post-title {
     margin-bottom: 1.75em;
 }
 
+#comments {
+    background-color: rgba(192, 168, 178, .18);
+    border-radius: 0 0 5px 5px;
+    padding: 10px 15px;
+}
+
+#disqus_thread p {
+    color: #fff;
+}
+
+.post-body footer menu li a span{
+    color: #fff;
+}
+
 /* ==========================================================================
    8. Pagination - Tools to let you flick between pages
    ========================================================================== */
